@@ -1,0 +1,1 @@
+<img height="180em" src="https://camo.githubusercontent.com/OliveGregory" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rafaballerini&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
