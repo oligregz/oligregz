@@ -38,3 +38,4 @@
  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" alt="github" width="40" height="40"/> </a>
 </div><br>
 
+![Snake animation](https://github.com/OliveGregory/OliveGregory/blob/output/github-contribution-grid-snake.svg)
