@@ -4,9 +4,9 @@
 ⏱️ Estudando Back End e Ciência da computação @Trybe <br>
 
 <div align="center">
-  <a href="https://github.com/OliveGregory">
+  <a href="https://github.com/oligregz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveGregory&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveGregory&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oligregz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -38,4 +38,4 @@
  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" alt="github" width="40" height="40"/> </a>
 </div><br>
 
-![Snake animation](https://github.com/OliveGregory/OliveGregory/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/oligregz/oligregz/blob/output/github-contribution-grid-snake.svg)
