@@ -1,2 +1,0 @@
-Esse foi meu primeiro projeto em front-end "completo" e "testado", utilizando HTML, CSS, JavaScript(utilizando o DOM) e Jest.
-Aqui pude aprender a pesquisar, saber pedir ajuda, ter comunicação assertiva para saber perguntar e ajudar os demais colegas de turma. Um projeto extremamente desafiaodr para quem tinha cerca de três meses de contato com programação com as features utilizadas no desenvolvimento do mesmo.
