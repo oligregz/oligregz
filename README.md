@@ -1,7 +1,8 @@
-### Oioi, eu sou o Gregory Oliveira!✌️<br>
+### Oioi, eu sou o Gregory Oliveira(ou Gregz ;])!✌️<br>
 
 ⚡ Desenvolvedor Front End <br>
-⏱️ Estudando Back End e Ciência da computação @Trybe <br>
+⚡ Desenvolvedor Back End <br>
+⏱️ Estudando Ciência da computação(com Python) @Trybe <br>
 
 <div align="center">
   <a href="https://github.com/oligregz">
