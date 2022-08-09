@@ -1,6 +1,6 @@
 ### Oioi, eu sou o Gregory Oliveira(ou Gregz ;])!✌️<br>
 
-⚡ Desenvolvedor < Front-end / Back-end > <br>
+⚡ Desenvolvedor < Fullstack /> <br>
 ⏱️ Estudando Ciência da computação(com Python) @Trybe <br>
 
 <div align="center">
