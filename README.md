@@ -1,4 +1,4 @@
-### Oioi, eu sou o Gregory Oliveira(ou Gregz ;])!✌️<br>
+### Oioi, eu sou o Gregory Oliveira(ou Gregz ;] )!✌️<br>
 
 ⚡ Desenvolvedor < Fullstack /> <br>
 ⏱️ Estudando Ciência da computação(com Python) @Trybe e JAVA+frameworks <br>
