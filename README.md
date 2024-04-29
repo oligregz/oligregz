@@ -1,7 +1,7 @@
 ### Oioi, eu sou o Gregory Oliveira(ou Gregz ;] )!✌️<br>
 
 ⚡ Desenvolvedor < Fullstack /> <br>
-⏱️ Estudando Ciência da computação(com Python) @Trybe e JAVA+frameworks <br>
+⏱️ Engenharia de software <br>
 
 <div align="center">
   <a href="https://github.com/oligregz">
