@@ -1,7 +1,7 @@
-### Oioi, eu sou o Gregory Oliveira(ou Gregz ;] )!✌️<br>
+### Hello, i'm Gregory Oliveira(or Gregz)✌️<br>
 
-⚡ Desenvolvedor < Fullstack /> <br>
-⏱️ Engenharia de software <br>
+⚡ Backend | Fullstack Developer <br>
+⏱️ Software Enginer <br>
 
 <div align="center">
   <a href="https://github.com/oligregz">
@@ -14,7 +14,7 @@
 </div>
   
   ##
-<h2 align="center">CONTATOS</h2>
+<h2 align="center">CONTACTS</h2>
   
 <div align="center">
 <!--   <a href="https://instagram.com/olive_gregory" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
