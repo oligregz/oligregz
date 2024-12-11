@@ -4,13 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oligregz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=oligregz&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oligregz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif"  />
 
 ###
 
@@ -90,7 +85,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://discord.gg/ZMdtHKzV" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -107,5 +102,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/oligregz/oligregz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/oligregz/count.svg?"  />
+</div>
 
 ###
